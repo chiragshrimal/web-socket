@@ -4,7 +4,7 @@ import './App.css'
 function App() {
 
   const [socket,setSocket]=useState();
-  const inputRef=useRef();
+  const inputRef=useRef(null);
 
 
   function sendMessage(){

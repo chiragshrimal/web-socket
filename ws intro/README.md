@@ -2,8 +2,8 @@
 
 ```
 npm init -y 
-npx install typescript 
-npm tsc --init 
+npm install typescript 
+npx tsc --init 
 
 ```
 ### set the path in the tsconfig.json file 
